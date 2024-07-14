@@ -1,0 +1,7 @@
+1) what is array ?
+  ->Array is an object in java , which contain similar
+   type of data in a contiguous memory location.
+  [] --> subscript operator.
+  new --> created object.
+  int a[] = new int[5];
+-----------------------------------------------------------
